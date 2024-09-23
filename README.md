@@ -21,6 +21,4 @@ When you compare this data with the percentage of the population holding a bache
 
 <h2>Conclusions</h2>
 <p>
-Here’s a corrected version of your text:
-
 All districts within Fairfax County have an average income that exceeds the national average. According to the American Census Bureau, the average income per household in the USA is $74,580. This means that even the district with the "lowest income" is still higher than the average for the rest of the country. </p>
