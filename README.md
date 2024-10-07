@@ -4,9 +4,7 @@
 <p>The purpose of this project is to analyze whether having higher education leads to higher income. To achieve this, I have downloaded several demographic data from the American Community Survey and shapefiles from Fairfax County, Virginia – Open Geospatial Data.  As a result, I have created a map and several graphics to show the conclusion of this research. </p>
 
 <b>The relationship between higher education and average salary per district within Farifax County, VA</b>
-
-
-<img src="https://i.imgur.com/mkRlSuW.png" height="70%" width="70%"> 
+<img src= "https://i.imgur.com/mkRlSuW.png" height="70%" width="70%"> 
 
 <p>This map represents the average income in U.S. dollars, ranging from $103,000 to $163,000. It also shows the percentage of the population in each district with a bachelor’s degree or higher.
 
