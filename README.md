@@ -5,6 +5,7 @@
 
 <b>The relationship between higher education and average salary per district within Farifax County, VA</b>
 
+
 <img src="https://i.imgur.com/mkRlSuW.png" height="70%" width="70%"> 
 
 <p>This map represents the average income in U.S. dollars, ranging from $103,000 to $163,000. It also shows the percentage of the population in each district with a bachelor’s degree or higher.
